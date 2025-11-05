@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "calculator": {
+      "command": "/Users/eddie/Projects/mcp1/.venv/bin/python",
+      "args": ["/Users/eddie/Projects/mcp1/calculator.py"]
+    }
+  }
+}

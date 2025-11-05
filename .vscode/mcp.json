@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "calculator": {
+      "args": [
+        "/Users/eddie/Projects/mcp1/calculator.py"
+      ],
+      "command": "/Users/eddie/Projects/mcp1/.venv/bin/python",
+      "disabled": false
+    }
+  }
+}
